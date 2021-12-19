@@ -1,1 +1,1 @@
-<img src='https://github.com/BetaTuX/.github/raw/master/assets/banner.gif' alt='GitHub animated image' align='center'/>
+<img src='https://github.com/BetaTuX/BetaTuX/raw/master/assets/banner.gif' alt='GitHub animated image' align='center'/>
